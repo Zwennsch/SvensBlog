@@ -2,7 +2,7 @@
 baseURL = "https://aupatten.de/"
 title = "Sven's Blog"
 theme = "techfeed-hugo-main"
-# post pagination
+# post pagination; this is the number of posts shown on blog overview pages
 paginate = "2"
 # post excerpt
 summaryLength = "30"

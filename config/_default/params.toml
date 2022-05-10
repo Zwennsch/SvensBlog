@@ -6,7 +6,7 @@ logo = "images/logo.png"
 # use `x` with logo_width, example: "100x"
 logo_width = "150px"
 # logo text will only show when logo is missing.
-logo_text = "TechFeed"
+logo_text = "ZwennsBlog"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Sven Schröder"
@@ -14,7 +14,7 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # main sections
 mainSections = ["blog"]
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "airform.io/your@email.com" # contact form works with https://formspree.io
 # copyright text
 copyright = "Designed & Developed by [GetHugoThemes](https://gethugothemes.com)"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
@@ -22,9 +22,9 @@ custom_script= ""
 
 # author
 [author_block]
-title= "WELCOME TO MY BLOG"
+title= "WELCOME"
 image= "images/author.jpg"
-content= "My name is Linda Smith. I am a writer, I like to travel and I love to photograph beautiful nature places and happy peoples."
+content= "My name Sven Schroeder. I am a tech enthusiast, I like to travel and I love to photograph beautiful nature places and happy peoples."
 
 # Preloader
 [preloader]
